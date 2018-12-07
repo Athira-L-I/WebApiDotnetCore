@@ -1,0 +1,14 @@
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\bin\Debug\netcoreapp2.1\DataServices.deps.json
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\bin\Debug\netcoreapp2.1\DataServices.dll
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\bin\Debug\netcoreapp2.1\DataServices.pdb
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\bin\Debug\netcoreapp2.1\Contracts.dll
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\bin\Debug\netcoreapp2.1\Entities.dll
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\bin\Debug\netcoreapp2.1\Contracts.pdb
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\bin\Debug\netcoreapp2.1\Entities.pdb
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\obj\Debug\netcoreapp2.1\DataServices.csprojAssemblyReference.cache
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\obj\Debug\netcoreapp2.1\DataServices.csproj.CoreCompileInputs.cache
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\obj\Debug\netcoreapp2.1\DataServices.AssemblyInfoInputs.cache
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\obj\Debug\netcoreapp2.1\DataServices.AssemblyInfo.cs
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\obj\Debug\netcoreapp2.1\DataServices.csproj.CopyComplete
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\obj\Debug\netcoreapp2.1\DataServices.dll
+D:\Training_Projects\InvoiceApiVersion2\InvoiceRepository\obj\Debug\netcoreapp2.1\DataServices.pdb

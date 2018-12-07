@@ -1,0 +1,12 @@
+D:\Training_Projects\InvoiceApiVersion2\LoggerService\bin\Debug\netcoreapp2.1\LoggerService.deps.json
+D:\Training_Projects\InvoiceApiVersion2\LoggerService\bin\Debug\netcoreapp2.1\LoggerService.dll
+D:\Training_Projects\InvoiceApiVersion2\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.csprojAssemblyReference.cache
+D:\Training_Projects\InvoiceApiVersion2\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.csproj.CoreCompileInputs.cache
+D:\Training_Projects\InvoiceApiVersion2\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.AssemblyInfoInputs.cache
+D:\Training_Projects\InvoiceApiVersion2\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.AssemblyInfo.cs
+D:\Training_Projects\InvoiceApiVersion2\LoggerService\bin\Debug\netcoreapp2.1\LoggerService.pdb
+D:\Training_Projects\InvoiceApiVersion2\LoggerService\bin\Debug\netcoreapp2.1\Contracts.dll
+D:\Training_Projects\InvoiceApiVersion2\LoggerService\bin\Debug\netcoreapp2.1\Contracts.pdb
+D:\Training_Projects\InvoiceApiVersion2\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.csproj.CopyComplete
+D:\Training_Projects\InvoiceApiVersion2\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.dll
+D:\Training_Projects\InvoiceApiVersion2\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.pdb

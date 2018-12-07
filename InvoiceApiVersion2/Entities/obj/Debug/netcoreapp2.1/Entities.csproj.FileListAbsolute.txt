@@ -1,0 +1,12 @@
+D:\Training_Projects\InvoiceApiVersion2\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+D:\Training_Projects\InvoiceApiVersion2\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+D:\Training_Projects\InvoiceApiVersion2\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
+D:\Training_Projects\InvoiceApiVersion2\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+D:\Training_Projects\InvoiceApiVersion2\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+D:\Training_Projects\InvoiceApiVersion2\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+D:\Training_Projects\InvoiceApiVersion2\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+D:\Training_Projects\InvoiceApiVersion2\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+D:\Training_Projects\InvoiceApiVersion2\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
+D:\Training_Projects\InvoiceApiVersion2\Entities\bin\Debug\netcoreapp2.1\Contracts.dll
+D:\Training_Projects\InvoiceApiVersion2\Entities\bin\Debug\netcoreapp2.1\Contracts.pdb
+D:\Training_Projects\InvoiceApiVersion2\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CopyComplete
